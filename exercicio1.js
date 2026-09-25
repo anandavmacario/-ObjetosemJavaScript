@@ -12,4 +12,4 @@ let usuario = {
     tipo: "fraca"
 };
 
-console.log("O login do administrador é admin e a senha é 1234, muito fraca por sinal.");
+console.log("O login do administrador é admin e a senha é 1234, muito fraca por sinal.")
